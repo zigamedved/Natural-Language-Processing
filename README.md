@@ -12,3 +12,5 @@ email filtering, speech recognition, and computer vision, where it is difficult 
 to develop conventional algorithms to perform the needed tasks. 
 - This property makes ML 
 the perfect tool for our work on the second assignment, as it would be impossible to hardcode a solution that would accurately detect all(or even most) fake news articles.
+
+There are 2 files in this repo, I would advise you to first check the ipynb and then if you want to change the code, use the other file as a starting point.
